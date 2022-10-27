@@ -1,2 +1,1 @@
-# trabalhos_machine_learning
-Trabalhos Machine Learning 2022.2
+# Trabalhos da Diciplina Machine Learning 2022.2
